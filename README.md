@@ -1,7 +1,3 @@
-Certainly! Here's the updated README file with the specified headings and descriptions for both models:
-
----
-
 # Spam Email Classifier
 
 ## Overview
